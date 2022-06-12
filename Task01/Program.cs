@@ -10,7 +10,7 @@ int number1 = Convert.ToInt32(ReadLine());
 WriteLine("Type the second number:");
 int number2 = Convert.ToInt32(ReadLine());
 
-WriteLine("Type the second number:");
+WriteLine("Type the third number:");
 int number3 = Convert.ToInt32(ReadLine());
 
 int maxNumber = number1;
